@@ -10,8 +10,7 @@ Features
 
 To install Solara, follow these steps:
 
-Download the Latest Version from release page and download the latest version of Solara.
-Extract the Files: Extract the downloaded 7z file to a location of your choice on your computer.
+Download the latest version of bootstrapper from this release page. 
 Run Solara: Open the extracted folder and run the .exe file to launch the injector.
 Usage
 
